@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f217260-ccb4-4a2f-816d-781b591da5a7" name="Changes" comment="MIAU :3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8f217260-ccb4-4a2f-816d-781b591da5a7" name="Changes" comment="task 1 erstmal fertig" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +70,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777531227745</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="task 1 erstmal fertig">
+      <option name="closed" value="true" />
+      <created>1777540187745</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1777540187746</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +96,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="MIAU :3" />
-    <option name="LAST_COMMIT_MESSAGE" value="MIAU :3" />
+    <MESSAGE value="task 1 erstmal fertig" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 1 erstmal fertig" />
   </component>
 </project>
